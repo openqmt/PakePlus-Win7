@@ -1,12 +1,1 @@
-{
-    "name": "图书管理系统",
-    "version": "1.0.0",
-    "author": "PakePlus",
-    "email": "support@pakeplus.com",
-    "url": "https://www.pakeplus.com",
-    "password": "666666",
-    "input": "./app-icon.png",
-    "output": "./res",
-    "copyTo": "./app/src/main/res",
-    "androidResDir": "./app/src/main/res"
-}
+{"name":"实验","version":"0.0.3","author":"xiaoshen","email":"support@pakeplus.com","url":"https://pphtml.pages.dev/","password":"","input":"./app-icon.png","output":"./res","copyTo":"./app/src/main/res","androidResDir":"./app/src/main/res"}
