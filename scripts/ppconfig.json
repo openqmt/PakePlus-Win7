@@ -1,1 +1,1 @@
-{"name":"测试1","version":"0.0.2","author":"xiaoshen","url":"https://www.json.cn/","password":"123456","input":"./app-icon.png","output":"./res","copyTo":"./app/src/main/res","androidResDir":"./app/src/main/res"}
+{"name":"测试1","version":"0.0.2","author":"xiaoshen","email":"support@pakeplus.com","url":"https://www.json.cn/","password":"123456","input":"./app-icon.png","output":"./res","copyTo":"./app/src/main/res","androidResDir":"./app/src/main/res"}
